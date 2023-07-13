@@ -20,6 +20,7 @@ To run the Work Day Scheduler Application locally, follow these steps:
 1. Clone the repository: git clone https://github.com/PC-Vic/Scheduler-app.git
 2. Open the project directory.
 3. Open the `index.html' file in a web browser.
+4. Application link: https://pc-vic.github.io/Scheduler-app/
 
 ## Usage
 1. Upon opening the application, the current date is displayed at the top of the page.
